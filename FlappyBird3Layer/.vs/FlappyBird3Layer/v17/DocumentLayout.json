@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TruongMInhTri\\FlappyBird3Layer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28DE0C18-C3B0-4CBE-9087-5436CFBF0E62}|FlappyBird3Layer\\FlappyBird3Layer.csproj|d:\\truongminhtri\\flappybird3layer\\flappybird3layer\\presentation\\formgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DE0C18-C3B0-4CBE-9087-5436CFBF0E62}|FlappyBird3Layer\\FlappyBird3Layer.csproj|solutionrelative:flappybird3layer\\presentation\\formgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DE0C18-C3B0-4CBE-9087-5436CFBF0E62}|FlappyBird3Layer\\FlappyBird3Layer.csproj|d:\\truongminhtri\\flappybird3layer\\flappybird3layer\\business\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DE0C18-C3B0-4CBE-9087-5436CFBF0E62}|FlappyBird3Layer\\FlappyBird3Layer.csproj|solutionrelative:flappybird3layer\\business\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DE0C18-C3B0-4CBE-9087-5436CFBF0E62}|FlappyBird3Layer\\FlappyBird3Layer.csproj|d:\\truongminhtri\\flappybird3layer\\flappybird3layer\\business\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DE0C18-C3B0-4CBE-9087-5436CFBF0E62}|FlappyBird3Layer\\FlappyBird3Layer.csproj|solutionrelative:flappybird3layer\\business\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DE0C18-C3B0-4CBE-9087-5436CFBF0E62}|FlappyBird3Layer\\FlappyBird3Layer.csproj|d:\\truongminhtri\\flappybird3layer\\flappybird3layer\\business\\pipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DE0C18-C3B0-4CBE-9087-5436CFBF0E62}|FlappyBird3Layer\\FlappyBird3Layer.csproj|solutionrelative:flappybird3layer\\business\\pipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DE0C18-C3B0-4CBE-9087-5436CFBF0E62}|FlappyBird3Layer\\FlappyBird3Layer.csproj|d:\\truongminhtri\\flappybird3layer\\flappybird3layer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DE0C18-C3B0-4CBE-9087-5436CFBF0E62}|FlappyBird3Layer\\FlappyBird3Layer.csproj|solutionrelative:flappybird3layer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DE0C18-C3B0-4CBE-9087-5436CFBF0E62}|FlappyBird3Layer\\FlappyBird3Layer.csproj|d:\\truongminhtri\\flappybird3layer\\flappybird3layer\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{28DE0C18-C3B0-4CBE-9087-5436CFBF0E62}|FlappyBird3Layer\\FlappyBird3Layer.csproj|solutionrelative:flappybird3layer\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DE0C18-C3B0-4CBE-9087-5436CFBF0E62}|FlappyBird3Layer\\FlappyBird3Layer.csproj|d:\\truongminhtri\\flappybird3layer\\flappybird3layer\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DE0C18-C3B0-4CBE-9087-5436CFBF0E62}|FlappyBird3Layer\\FlappyBird3Layer.csproj|solutionrelative:flappybird3layer\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DE0C18-C3B0-4CBE-9087-5436CFBF0E62}|FlappyBird3Layer\\FlappyBird3Layer.csproj|d:\\truongminhtri\\flappybird3layer\\flappybird3layer\\flappybird3layer.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{28DE0C18-C3B0-4CBE-9087-5436CFBF0E62}|FlappyBird3Layer\\FlappyBird3Layer.csproj|solutionrelative:flappybird3layer\\flappybird3layer.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DE0C18-C3B0-4CBE-9087-5436CFBF0E62}|FlappyBird3Layer\\FlappyBird3Layer.csproj|d:\\truongminhtri\\flappybird3layer\\flappybird3layer\\flappybird3layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{28DE0C18-C3B0-4CBE-9087-5436CFBF0E62}|FlappyBird3Layer\\FlappyBird3Layer.csproj|solutionrelative:flappybird3layer\\flappybird3layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DE0C18-C3B0-4CBE-9087-5436CFBF0E62}|FlappyBird3Layer\\FlappyBird3Layer.csproj|d:\\truongminhtri\\flappybird3layer\\flappybird3layer\\presentation\\formgame.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DE0C18-C3B0-4CBE-9087-5436CFBF0E62}|FlappyBird3Layer\\FlappyBird3Layer.csproj|solutionrelative:flappybird3layer\\presentation\\formgame.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DE0C18-C3B0-4CBE-9087-5436CFBF0E62}|FlappyBird3Layer\\FlappyBird3Layer.csproj|d:\\truongminhtri\\flappybird3layer\\flappybird3layer\\presentation\\formgame.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{28DE0C18-C3B0-4CBE-9087-5436CFBF0E62}|FlappyBird3Layer\\FlappyBird3Layer.csproj|solutionrelative:flappybird3layer\\presentation\\formgame.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\TruongMInhTri\\FlappyBird3Layer\\FlappyBird3Layer\\obj\\FlappyBird3Layer.csproj.nuget.g.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FlappyBird3Layer\\obj\\FlappyBird3Layer.csproj.nuget.g.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DE0C18-C3B0-4CBE-9087-5436CFBF0E62}|FlappyBird3Layer\\FlappyBird3Layer.csproj|d:\\truongminhtri\\flappybird3layer\\flappybird3layer\\data\\filescorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DE0C18-C3B0-4CBE-9087-5436CFBF0E62}|FlappyBird3Layer\\FlappyBird3Layer.csproj|solutionrelative:flappybird3layer\\data\\filescorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DE0C18-C3B0-4CBE-9087-5436CFBF0E62}|FlappyBird3Layer\\FlappyBird3Layer.csproj|d:\\truongminhtri\\flappybird3layer\\flappybird3layer\\data\\iscorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DE0C18-C3B0-4CBE-9087-5436CFBF0E62}|FlappyBird3Layer\\FlappyBird3Layer.csproj|solutionrelative:flappybird3layer\\data\\iscorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 168,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "D:\\TruongMInhTri\\FlappyBird3Layer\\FlappyBird3Layer\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "FlappyBird3Layer\\Properties\\Resources.resx",
+              "ToolTip": "D:\\TruongMInhTri\\FlappyBird3Layer\\FlappyBird3Layer\\Properties\\Resources.resx",
+              "RelativeToolTip": "FlappyBird3Layer\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-12-05T07:49:53.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "D:\\TruongMInhTri\\FlappyBird3Layer\\FlappyBird3Layer\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "FlappyBird3Layer\\Properties\\Resources.Designer.cs",
+              "ToolTip": "D:\\TruongMInhTri\\FlappyBird3Layer\\FlappyBird3Layer\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "FlappyBird3Layer\\Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T07:45:47.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FlappyBird3Layer",
+              "DocumentMoniker": "D:\\TruongMInhTri\\FlappyBird3Layer\\FlappyBird3Layer\\FlappyBird3Layer.csproj",
+              "RelativeDocumentMoniker": "FlappyBird3Layer\\FlappyBird3Layer.csproj",
+              "ToolTip": "D:\\TruongMInhTri\\FlappyBird3Layer\\FlappyBird3Layer\\FlappyBird3Layer.csproj",
+              "RelativeToolTip": "FlappyBird3Layer\\FlappyBird3Layer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-05T07:40:00.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FlappyBird3Layer",
+              "DocumentMoniker": "D:\\TruongMInhTri\\FlappyBird3Layer\\FlappyBird3Layer\\FlappyBird3Layer.csproj",
+              "RelativeDocumentMoniker": "FlappyBird3Layer\\FlappyBird3Layer.csproj",
+              "ToolTip": "D:\\TruongMInhTri\\FlappyBird3Layer\\FlappyBird3Layer\\FlappyBird3Layer.csproj",
+              "RelativeToolTip": "FlappyBird3Layer\\FlappyBird3Layer.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-05T07:40:05.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormGame.cs",
+              "DocumentMoniker": "D:\\TruongMInhTri\\FlappyBird3Layer\\FlappyBird3Layer\\Presentation\\FormGame.cs",
+              "RelativeDocumentMoniker": "FlappyBird3Layer\\Presentation\\FormGame.cs",
+              "ToolTip": "D:\\TruongMInhTri\\FlappyBird3Layer\\FlappyBird3Layer\\Presentation\\FormGame.cs",
+              "RelativeToolTip": "FlappyBird3Layer\\Presentation\\FormGame.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T07:37:55.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormGame.resx",
+              "DocumentMoniker": "D:\\TruongMInhTri\\FlappyBird3Layer\\FlappyBird3Layer\\Presentation\\FormGame.resx",
+              "RelativeDocumentMoniker": "FlappyBird3Layer\\Presentation\\FormGame.resx",
+              "ToolTip": "D:\\TruongMInhTri\\FlappyBird3Layer\\FlappyBird3Layer\\Presentation\\FormGame.resx",
+              "RelativeToolTip": "FlappyBird3Layer\\Presentation\\FormGame.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-12-05T07:36:19.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FlappyBird3Layer.csproj.nuget.g.props",
+              "DocumentMoniker": "D:\\TruongMInhTri\\FlappyBird3Layer\\FlappyBird3Layer\\obj\\FlappyBird3Layer.csproj.nuget.g.props",
+              "RelativeDocumentMoniker": "FlappyBird3Layer\\obj\\FlappyBird3Layer.csproj.nuget.g.props",
+              "ToolTip": "D:\\TruongMInhTri\\FlappyBird3Layer\\FlappyBird3Layer\\obj\\FlappyBird3Layer.csproj.nuget.g.props",
+              "RelativeToolTip": "FlappyBird3Layer\\obj\\FlappyBird3Layer.csproj.nuget.g.props",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-12-05T07:30:56.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TruongMInhTri\\FlappyBird3Layer\\FlappyBird3Layer\\Program.cs",
+              "RelativeDocumentMoniker": "FlappyBird3Layer\\Program.cs",
+              "ToolTip": "D:\\TruongMInhTri\\FlappyBird3Layer\\FlappyBird3Layer\\Program.cs",
+              "RelativeToolTip": "FlappyBird3Layer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T07:06:41.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormGame.Designer.cs",
+              "DocumentMoniker": "D:\\TruongMInhTri\\FlappyBird3Layer\\FlappyBird3Layer\\Presentation\\FormGame.Designer.cs",
+              "RelativeDocumentMoniker": "FlappyBird3Layer\\Presentation\\FormGame.Designer.cs",
+              "ToolTip": "D:\\TruongMInhTri\\FlappyBird3Layer\\FlappyBird3Layer\\Presentation\\FormGame.Designer.cs",
+              "RelativeToolTip": "FlappyBird3Layer\\Presentation\\FormGame.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T07:06:10.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FileScoreRepository.cs",
+              "DocumentMoniker": "D:\\TruongMInhTri\\FlappyBird3Layer\\FlappyBird3Layer\\data\\FileScoreRepository.cs",
+              "RelativeDocumentMoniker": "FlappyBird3Layer\\data\\FileScoreRepository.cs",
+              "ToolTip": "D:\\TruongMInhTri\\FlappyBird3Layer\\FlappyBird3Layer\\data\\FileScoreRepository.cs",
+              "RelativeToolTip": "FlappyBird3Layer\\data\\FileScoreRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T07:03:27.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IScoreRepository.cs",
+              "DocumentMoniker": "D:\\TruongMInhTri\\FlappyBird3Layer\\FlappyBird3Layer\\data\\IScoreRepository.cs",
+              "RelativeDocumentMoniker": "FlappyBird3Layer\\data\\IScoreRepository.cs",
+              "ToolTip": "D:\\TruongMInhTri\\FlappyBird3Layer\\FlappyBird3Layer\\data\\IScoreRepository.cs",
+              "RelativeToolTip": "FlappyBird3Layer\\data\\IScoreRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T07:03:11.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\TruongMInhTri\\FlappyBird3Layer\\FlappyBird3Layer\\Business\\GameManager.cs",
+              "RelativeDocumentMoniker": "FlappyBird3Layer\\Business\\GameManager.cs",
+              "ToolTip": "D:\\TruongMInhTri\\FlappyBird3Layer\\FlappyBird3Layer\\Business\\GameManager.cs",
+              "RelativeToolTip": "FlappyBird3Layer\\Business\\GameManager.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAgwIkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T07:02:51.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pipe.cs",
+              "DocumentMoniker": "D:\\TruongMInhTri\\FlappyBird3Layer\\FlappyBird3Layer\\Business\\Pipe.cs",
+              "RelativeDocumentMoniker": "FlappyBird3Layer\\Business\\Pipe.cs",
+              "ToolTip": "D:\\TruongMInhTri\\FlappyBird3Layer\\FlappyBird3Layer\\Business\\Pipe.cs",
+              "RelativeToolTip": "FlappyBird3Layer\\Business\\Pipe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T07:02:33.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "D:\\TruongMInhTri\\FlappyBird3Layer\\FlappyBird3Layer\\Business\\Bird.cs",
+              "RelativeDocumentMoniker": "FlappyBird3Layer\\Business\\Bird.cs",
+              "ToolTip": "D:\\TruongMInhTri\\FlappyBird3Layer\\FlappyBird3Layer\\Business\\Bird.cs",
+              "RelativeToolTip": "FlappyBird3Layer\\Business\\Bird.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T07:02:11.329Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+D:\TruongMInhTri\FlappyBird3Layer\FlappyBird3Layer\obj\Debug\net8.0-windows\FlappyBird3Layer.csproj.GenerateResource.cache
+D:\TruongMInhTri\FlappyBird3Layer\FlappyBird3Layer\obj\Debug\net8.0-windows\FlappyBird3Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\TruongMInhTri\FlappyBird3Layer\FlappyBird3Layer\obj\Debug\net8.0-windows\FlappyBird3Layer.AssemblyInfoInputs.cache
+D:\TruongMInhTri\FlappyBird3Layer\FlappyBird3Layer\obj\Debug\net8.0-windows\FlappyBird3Layer.AssemblyInfo.cs
+D:\TruongMInhTri\FlappyBird3Layer\FlappyBird3Layer\obj\Debug\net8.0-windows\FlappyBird3Layer.csproj.CoreCompileInputs.cache
+D:\TruongMInhTri\FlappyBird3Layer\FlappyBird3Layer\obj\Debug\net8.0-windows\FlappyBird3Layer.Presentation.FormGame.resources
+D:\TruongMInhTri\FlappyBird3Layer\FlappyBird3Layer\bin\Debug\net8.0-windows\FlappyBird3Layer.exe
+D:\TruongMInhTri\FlappyBird3Layer\FlappyBird3Layer\bin\Debug\net8.0-windows\FlappyBird3Layer.deps.json
+D:\TruongMInhTri\FlappyBird3Layer\FlappyBird3Layer\bin\Debug\net8.0-windows\FlappyBird3Layer.runtimeconfig.json
+D:\TruongMInhTri\FlappyBird3Layer\FlappyBird3Layer\bin\Debug\net8.0-windows\FlappyBird3Layer.dll
+D:\TruongMInhTri\FlappyBird3Layer\FlappyBird3Layer\bin\Debug\net8.0-windows\FlappyBird3Layer.pdb
+D:\TruongMInhTri\FlappyBird3Layer\FlappyBird3Layer\obj\Debug\net8.0-windows\FlappyBird3Layer.dll
+D:\TruongMInhTri\FlappyBird3Layer\FlappyBird3Layer\obj\Debug\net8.0-windows\refint\FlappyBird3Layer.dll
+D:\TruongMInhTri\FlappyBird3Layer\FlappyBird3Layer\obj\Debug\net8.0-windows\FlappyBird3Layer.pdb
+D:\TruongMInhTri\FlappyBird3Layer\FlappyBird3Layer\obj\Debug\net8.0-windows\FlappyBird3Layer.genruntimeconfig.cache
+D:\TruongMInhTri\FlappyBird3Layer\FlappyBird3Layer\obj\Debug\net8.0-windows\ref\FlappyBird3Layer.dll
+D:\TruongMInhTri\FlappyBird3Layer\FlappyBird3Layer\obj\Debug\net8.0-windows\FlappyBird3Layer.Properties.Resources.resources
