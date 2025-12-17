@@ -34,11 +34,16 @@
             button4 = new Button();
             button5 = new Button();
             button6 = new Button();
+            button7 = new Button();
+            groupBox1 = new GroupBox();
+            button8 = new Button();
+            button9 = new Button();
+            groupBox1.SuspendLayout();
             SuspendLayout();
             // 
             // button1
             // 
-            button1.Location = new Point(12, 34);
+            button1.Location = new Point(12, 24);
             button1.Name = "button1";
             button1.Size = new Size(94, 29);
             button1.TabIndex = 0;
@@ -48,7 +53,7 @@
             // 
             // button2
             // 
-            button2.Location = new Point(415, 34);
+            button2.Location = new Point(415, 24);
             button2.Name = "button2";
             button2.Size = new Size(94, 29);
             button2.TabIndex = 1;
@@ -58,7 +63,7 @@
             // 
             // button3
             // 
-            button3.Location = new Point(290, 34);
+            button3.Location = new Point(290, 24);
             button3.Name = "button3";
             button3.Size = new Size(94, 29);
             button3.TabIndex = 2;
@@ -68,7 +73,7 @@
             // 
             // button4
             // 
-            button4.Location = new Point(145, 34);
+            button4.Location = new Point(145, 24);
             button4.Name = "button4";
             button4.Size = new Size(94, 29);
             button4.TabIndex = 3;
@@ -78,7 +83,7 @@
             // 
             // button5
             // 
-            button5.Location = new Point(558, 37);
+            button5.Location = new Point(194, 324);
             button5.Name = "button5";
             button5.Size = new Size(94, 29);
             button5.TabIndex = 4;
@@ -88,7 +93,7 @@
             // 
             // button6
             // 
-            button6.Location = new Point(694, 37);
+            button6.Location = new Point(369, 324);
             button6.Name = "button6";
             button6.Size = new Size(94, 29);
             button6.TabIndex = 5;
@@ -96,19 +101,63 @@
             button6.UseVisualStyleBackColor = true;
             button6.Click += button6_Click;
             // 
+            // button7
+            // 
+            button7.Location = new Point(531, 324);
+            button7.Name = "button7";
+            button7.Size = new Size(94, 29);
+            button7.TabIndex = 6;
+            button7.Text = "button7";
+            button7.UseVisualStyleBackColor = true;
+            button7.Click += button7_Click;
+            // 
+            // groupBox1
+            // 
+            groupBox1.Controls.Add(button8);
+            groupBox1.Controls.Add(button4);
+            groupBox1.Controls.Add(button3);
+            groupBox1.Controls.Add(button2);
+            groupBox1.Controls.Add(button1);
+            groupBox1.Location = new Point(0, 10);
+            groupBox1.Name = "groupBox1";
+            groupBox1.Size = new Size(611, 177);
+            groupBox1.TabIndex = 7;
+            groupBox1.TabStop = false;
+            groupBox1.Text = "groupBox1";
+            // 
+            // button8
+            // 
+            button8.Location = new Point(249, 116);
+            button8.Name = "button8";
+            button8.Size = new Size(94, 29);
+            button8.TabIndex = 4;
+            button8.Text = "BAITAPGAME";
+            button8.UseVisualStyleBackColor = true;
+            button8.Click += button8_Click;
+            // 
+            // button9
+            // 
+            button9.Location = new Point(27, 276);
+            button9.Name = "button9";
+            button9.Size = new Size(94, 29);
+            button9.TabIndex = 8;
+            button9.Text = "BAITAPCOBAN";
+            button9.UseVisualStyleBackColor = true;
+            button9.Click += button9_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(button9);
+            Controls.Add(groupBox1);
+            Controls.Add(button7);
             Controls.Add(button6);
             Controls.Add(button5);
-            Controls.Add(button4);
-            Controls.Add(button3);
-            Controls.Add(button2);
-            Controls.Add(button1);
             Name = "Form1";
             Text = "Form1";
+            groupBox1.ResumeLayout(false);
             ResumeLayout(false);
         }
 
@@ -120,5 +169,9 @@
         private Button button4;
         private Button button5;
         private Button button6;
+        private Button button7;
+        private GroupBox groupBox1;
+        private Button button8;
+        private Button button9;
     }
 }

@@ -62,3 +62,4 @@ D:\WInfom\TruongMInhTri\TruongMInhTri\TruongMinhTri_2123110137\TruongMinhTri_212
 D:\WInfom\TruongMInhTri\TruongMInhTri\TruongMinhTri_2123110137\TruongMinhTri_2123110137\obj\Debug\net8.0-windows\TruongMinhTri_2123110137.Form5.resources
 D:\WInfom\TruongMInhTri\TruongMInhTri\TruongMinhTri_2123110137\TruongMinhTri_2123110137\obj\Debug\net8.0-windows\TruongMinhTri_2123110137.Form6.resources
 D:\WInfom\TruongMInhTri\TruongMInhTri\TruongMinhTri_2123110137\TruongMinhTri_2123110137\obj\Debug\net8.0-windows\TruongMinhTri_2123110137.Form7.resources
+D:\WInfom\TruongMInhTri\TruongMInhTri\TruongMinhTri_2123110137\TruongMinhTri_2123110137\obj\Debug\net8.0-windows\TruongMinhTri_2123110137.Form8.resources
