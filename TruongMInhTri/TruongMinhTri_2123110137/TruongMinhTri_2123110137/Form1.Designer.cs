@@ -38,6 +38,7 @@
             groupBox1 = new GroupBox();
             button8 = new Button();
             button9 = new Button();
+            button10 = new Button();
             groupBox1.SuspendLayout();
             SuspendLayout();
             // 
@@ -145,11 +146,22 @@
             button9.UseVisualStyleBackColor = true;
             button9.Click += button9_Click;
             // 
+            // button10
+            // 
+            button10.Location = new Point(695, 329);
+            button10.Name = "button10";
+            button10.Size = new Size(94, 29);
+            button10.TabIndex = 9;
+            button10.Text = "button10";
+            button10.UseVisualStyleBackColor = true;
+            button10.Click += button10_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(button10);
             Controls.Add(button9);
             Controls.Add(groupBox1);
             Controls.Add(button7);
@@ -173,5 +185,6 @@
         private GroupBox groupBox1;
         private Button button8;
         private Button button9;
+        private Button button10;
     }
 }
