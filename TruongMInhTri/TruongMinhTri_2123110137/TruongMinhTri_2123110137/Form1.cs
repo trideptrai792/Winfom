@@ -118,6 +118,14 @@ namespace TruongMinhTri_2123110137
             // Tùy chọn: Nếu bạn muốn ẩn Form1 đi sau khi mở Form2, hãy thêm dòng sau:
             // this.Hide();
         }
+
+        private void button11_Click(object sender, EventArgs e)
+        {
+            Form10 f10 = new Form10();
+
+
+            f10.Show();
+        }
     }
 
 }
