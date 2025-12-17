@@ -7,9 +7,6 @@
     <Compile Update="Form10.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Form11.cs">
-      <SubType>Form</SubType>
-    </Compile>
     <Compile Update="Form2.cs">
       <SubType>Form</SubType>
     </Compile>
