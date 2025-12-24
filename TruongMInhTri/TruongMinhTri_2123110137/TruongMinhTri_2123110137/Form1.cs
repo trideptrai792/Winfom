@@ -89,7 +89,13 @@ namespace TruongMinhTri_2123110137
 
         private void button8_Click(object sender, EventArgs e)
         {
+            Form13 f13 = new Form13();
 
+
+            f13.Show();
+
+            // Tùy chọn: Nếu bạn muốn ẩn Form1 đi sau khi mở Form2, hãy thêm dòng sau:
+            // this.Hide();
         }
 
         private void button9_Click(object sender, EventArgs e)
@@ -125,6 +131,11 @@ namespace TruongMinhTri_2123110137
 
 
             f10.Show();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 

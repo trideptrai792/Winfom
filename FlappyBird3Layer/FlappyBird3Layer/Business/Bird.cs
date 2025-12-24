@@ -12,31 +12,31 @@ namespace FlappyBird3Layer.Business
         private float _gravity = 0.6f;
         private float _jumpForce = -10f;
 
+        private static Bitmap _birdBmp;
+
+        static Bird()
+        {
+            _birdBmp = new Bitmap(global::FlappyBird3Layer.Properties.Resources.bird);
+            _birdBmp.MakeTransparent(Color.White);
+        }
+
         public Bird(int x, int y)
         {
             X = x;
             Y = y;
         }
 
-        public void Jump()
-        {
-            _velocity = _jumpForce;
-        }
+        public void Jump(float jumpMul = 1f) => _velocity = _jumpForce * jumpMul;
 
-        public void Update()
+        public void Update(float gravityMul = 1f)
         {
-            _velocity += _gravity;
+            _velocity += _gravity * gravityMul;
             Y += (int)_velocity;
         }
 
         public void Draw(Graphics g)
         {
-            // TEST 1: vẽ hình chữ nhật đỏ để chắc chắn chim đang được vẽ
-            // g.FillRectangle(Brushes.Red, X, Y, 40, 30);
-
-            // TEST 2: dùng đúng resource bird
-            var img = global::FlappyBird3Layer.Properties.Resources.bird;
-            g.DrawImage(img, X, Y, 40, 30);
+            g.DrawImage(_birdBmp, X, Y, 40, 30);
         }
     }
 }
