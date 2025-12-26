@@ -59,12 +59,3 @@ E:\WInfom\Winfom-main\FlappyBird3Layer\FlappyBird3Layer\bin\Debug\net8.0-windows
 E:\WInfom\Winfom-main\FlappyBird3Layer\FlappyBird3Layer\bin\Debug\net8.0-windows\NAudio.WinMM.dll
 E:\WInfom\Winfom-main\FlappyBird3Layer\FlappyBird3Layer\obj\Debug\net8.0-windows\FlappyBird3Layer.csproj.AssemblyReference.cache
 E:\WInfom\Winfom-main\FlappyBird3Layer\FlappyBird3Layer\obj\Debug\net8.0-windows\FlappyBird3Layer.csproj.CopyComplete
-D:\WInfom\TruongMInhTri\FlappyBird3Layer\FlappyBird3Layer\bin\Debug\net8.0-windows\NAudio.dll
-D:\WInfom\TruongMInhTri\FlappyBird3Layer\FlappyBird3Layer\bin\Debug\net8.0-windows\NAudio.Asio.dll
-D:\WInfom\TruongMInhTri\FlappyBird3Layer\FlappyBird3Layer\bin\Debug\net8.0-windows\NAudio.Core.dll
-D:\WInfom\TruongMInhTri\FlappyBird3Layer\FlappyBird3Layer\bin\Debug\net8.0-windows\NAudio.Midi.dll
-D:\WInfom\TruongMInhTri\FlappyBird3Layer\FlappyBird3Layer\bin\Debug\net8.0-windows\NAudio.Wasapi.dll
-D:\WInfom\TruongMInhTri\FlappyBird3Layer\FlappyBird3Layer\bin\Debug\net8.0-windows\NAudio.WinForms.dll
-D:\WInfom\TruongMInhTri\FlappyBird3Layer\FlappyBird3Layer\bin\Debug\net8.0-windows\NAudio.WinMM.dll
-D:\WInfom\TruongMInhTri\FlappyBird3Layer\FlappyBird3Layer\obj\Debug\net8.0-windows\FlappyBird3Layer.csproj.AssemblyReference.cache
-D:\WInfom\TruongMInhTri\FlappyBird3Layer\FlappyBird3Layer\obj\Debug\net8.0-windows\FlappyBird3Layer.csproj.CopyComplete

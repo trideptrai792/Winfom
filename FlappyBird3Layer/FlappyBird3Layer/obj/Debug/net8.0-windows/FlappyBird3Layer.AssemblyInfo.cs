@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FlappyBird3Layer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a879aa686b9ad075c412435ef3ccb90916f151a6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("FlappyBird3Layer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FlappyBird3Layer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

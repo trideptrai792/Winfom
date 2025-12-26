@@ -97,7 +97,11 @@ namespace FlappyBird3Layer.Presentation
 
             var bg = Properties.Resources.back;
             g.DrawImage(bg, 0, 0, VW, VH);
-
+            using (Font f = new Font("Segoe UI", 16, FontStyle.Bold))
+            using (Brush b = new SolidBrush(Color.Black))
+            {
+                g.DrawString($"Best: {_game.HighScore}", f, b, 10, 10);
+            }
             string title = "FlappyBird";
             using (Font f = new Font("Arial Black", 56, FontStyle.Bold))
             {

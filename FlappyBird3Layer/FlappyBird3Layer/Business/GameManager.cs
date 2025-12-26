@@ -2,14 +2,14 @@
 using System;
 using System.Collections.Generic;
 using System.Drawing;
-
+using System.IO;
 namespace FlappyBird3Layer.Business
 {
 
     public class GameManager
     {
         public List<PowerUp> PowerUps { get; private set; } = new List<PowerUp>();
-
+        
         private int _shieldInvTicks;
         private bool _hasShield;
 
@@ -44,7 +44,43 @@ namespace FlappyBird3Layer.Business
         {
             _formWidth = formWidth;
             _formHeight = formHeight;
+            LoadHighScore();
+            
             Reset();
+        }
+        public int HighScore { get; private set; }
+
+        private readonly string _hsPath =
+            Path.Combine(
+                Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData),
+                "FlappyBird3Layer",
+                "highscore.txt"
+            );
+        private void LoadHighScore()
+        {
+            try
+            {
+                var dir = Path.GetDirectoryName(_hsPath);
+                if (!Directory.Exists(dir)) Directory.CreateDirectory(dir);
+
+                if (!File.Exists(_hsPath)) { HighScore = 0; return; }
+
+                var s = File.ReadAllText(_hsPath).Trim();
+                HighScore = int.TryParse(s, out var v) ? v : 0;
+            }
+            catch { HighScore = 0; }
+        }
+
+        private void SaveHighScore()
+        {
+            try
+            {
+                var dir = Path.GetDirectoryName(_hsPath);
+                if (!Directory.Exists(dir)) Directory.CreateDirectory(dir);
+
+                File.WriteAllText(_hsPath, HighScore.ToString());
+            }
+            catch { }
         }
 
         public void Reset()
@@ -134,6 +170,11 @@ namespace FlappyBird3Layer.Business
                 {
                     p.Passed = true;
                     Score++;
+                    if (Score > HighScore)
+                    {
+                        HighScore = Score;
+                        SaveHighScore();
+                    }
                 }
             }
 
@@ -233,9 +274,9 @@ namespace FlappyBird3Layer.Business
 
         private int GetSpeed()
         {
-            int lv = Score / 5;
-            int speed = 3 + lv;
-            if (speed > 10) speed = 10;
+            int lv = Score / 5;// cứ 5 điểm tăng 1 level
+            int speed = 3 + lv;// tốc độ tăng theo level
+            if (speed > 10) speed = 10;// giới hạn tối đa
             return speed;
         }
 
@@ -324,20 +365,36 @@ namespace FlappyBird3Layer.Business
             if (_drunkTicks > 0) effects += "D ";
             if (effects.Length > 0)
                 g.DrawString("PowerUp: " + effects, new Font("Arial", 14, FontStyle.Bold), Brushes.Black, 10, 25);
+            var pipeImg = global::FlappyBird3Layer.Properties.Resources.pipe;
 
-            using (Brush pipeBrush = new SolidBrush(Color.ForestGreen))
+            for (int i = 0; i < Pipes.Count; i++)
             {
-                for (int i = 0; i < Pipes.Count; i++)
+                var p = Pipes[i];
+
+                int topPipeBottom = p.GapY - p.GapHeight / 2;
+                int bottomPipeTop = p.GapY + p.GapHeight / 2;
+
+                int topH = topPipeBottom;
+                int botH = _formHeight - GroundHeight - bottomPipeTop;
+
+                // Ống trên (lộn ngược)
+                if (topH > 0)
                 {
-                    var p = Pipes[i];
+                    g.DrawImage(
+                        pipeImg,
+                        new Rectangle(p.X, 0, PipeWidth, topH),
+                        0, pipeImg.Height, pipeImg.Width, -pipeImg.Height,
+                        GraphicsUnit.Pixel
+                    );
+                }
 
-                    int topPipeBottom = p.GapY - p.GapHeight / 2;
-                    int bottomPipeTop = p.GapY + p.GapHeight / 2;
-
-                    g.FillRectangle(pipeBrush, p.X, 0, PipeWidth, topPipeBottom);
-                    g.FillRectangle(pipeBrush, p.X, bottomPipeTop, PipeWidth, _formHeight - GroundHeight - bottomPipeTop);
+                // Ống dưới (bình thường)
+                if (botH > 0)
+                {
+                    g.DrawImage(pipeImg, new Rectangle(p.X, bottomPipeTop, PipeWidth, botH));
                 }
             }
+
 
             for (int i = 0; i < PowerUps.Count; i++)
             {
@@ -364,6 +421,7 @@ namespace FlappyBird3Layer.Business
             using (Font font = new Font("Segoe UI", 16, FontStyle.Bold))
             {
                 g.DrawString($"Score: {Score}", font, textBrush, 10, 10);
+                g.DrawString($"Best: {HighScore}", font, textBrush, 10, 40);
 
                 if (IsGameOver)
                     g.DrawString("Game Over - nhấn Space để chơi lại", font, textBrush, 80, _formHeight / 2);

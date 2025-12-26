@@ -492,11 +492,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WInfom\\TruongMInhTri\\FlappyBird3Layer\\FlappyBird3Layer\\FlappyBird3Layer.csproj",
+      "projectUniqueName": "E:\\WInfom\\Winfom-main\\FlappyBird3Layer\\FlappyBird3Layer\\FlappyBird3Layer.csproj",
       "projectName": "FlappyBird3Layer",
-      "projectPath": "D:\\WInfom\\TruongMInhTri\\FlappyBird3Layer\\FlappyBird3Layer\\FlappyBird3Layer.csproj",
+      "projectPath": "E:\\WInfom\\Winfom-main\\FlappyBird3Layer\\FlappyBird3Layer\\FlappyBird3Layer.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\WInfom\\TruongMInhTri\\FlappyBird3Layer\\FlappyBird3Layer\\obj\\",
+      "outputPath": "E:\\WInfom\\Winfom-main\\FlappyBird3Layer\\FlappyBird3Layer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

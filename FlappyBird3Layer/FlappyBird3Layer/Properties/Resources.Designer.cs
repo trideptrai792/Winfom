@@ -83,9 +83,9 @@ namespace FlappyBird3Layer.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        public static System.Drawing.Bitmap bird2 {
+        public static System.Drawing.Bitmap pipe {
             get {
-                object obj = ResourceManager.GetObject("bird2", resourceCulture);
+                object obj = ResourceManager.GetObject("pipe", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
